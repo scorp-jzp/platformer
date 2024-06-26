@@ -1,2 +1,3 @@
-# platformer
-A bounty game made in Godot 
+# A bounty game in progress
+
+![iamge](bounty-platformer.png)
