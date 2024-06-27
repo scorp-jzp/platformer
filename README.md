@@ -1,6 +1,6 @@
 # A bounty hunter game in progress
 
-![iamge](bounty-platformer.png)
+![image](bounty-platformer.png)
 
 ## Taks
 We're using Notion for documentation of the whole process. If you want to participate feel free to contact us.
